@@ -1,4 +1,8 @@
 hello
 this is my repositarry
 and i am changing a file
+<<<<<<< HEAD
 conflict merge file directly
+=======
+merge conflict added
+>>>>>>> 93dad1c6d8e57d82e8412aaa03559b9edad0fbdb
