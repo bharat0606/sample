@@ -3,3 +3,7 @@ this is my repositarry
 and i am changing a file
 conflict merge file directly
 change  the file twice
+=======
+merge conflict added
+change the file thrice
+>>>>>>> 5b2299fd3af5716ac720c8b83bb495daac8343ac
